@@ -219,6 +219,7 @@ section {
 
 section#intro{
     background: url('../img/intro-bg.jpg') no-repeat center 0;
+	/**/
     /*background-size: 1500px;*/
 }
 section#intro h1{
